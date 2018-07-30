@@ -1,5 +1,6 @@
 # Graphics
 A repository for some graphics projects I have done, in Desc Order
+2018 Dog_icon: A .jpg preview with an orange background to make the face of the dog stand out for viewing purposes of a .ico file for FindMyPet. Created with Gimp. Intended to be the App icon.
 
 July 2018 Waterdeer: Scratchboard medium with Watercolor overlay on flowers. I'm a traditional artist by nature.
 This was the first full-sheet Scratchboard commission I did.
