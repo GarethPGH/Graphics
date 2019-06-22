@@ -1,4 +1,4 @@
-##Graphics##
+<h1>Graphics</h2>
 
 A repository for some graphics projects I have done, in Desc Order
 
