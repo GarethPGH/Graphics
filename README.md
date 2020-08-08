@@ -3,7 +3,7 @@
 A repository for some graphics projects I have done, in Desc Order
 
 
-**2019 Gryphon Commission:** Picture made for a client of a sci-fi theme, involving a mad scientist and his character, the samurai gryphon. 
+**2020 Fox Mural:** Mural on concrete retaining wall of a fox family in Spring. Done to bring joy to a neighborhood under lockdown. It measures about 4' by 6'.
  
  
 **2018 Dog_icon:** A .jpg preview with an orange background to make the face of the dog stand out for viewing purposes of a .ico file for FindMyPet. Original has a transparent background. Created with Gimp. Intended to be the App icon.
